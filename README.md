@@ -3,9 +3,10 @@ ISA5810 Data Mining Lab 2
 
 Homework 
 1. (file:DM2024-Lab2-Master.ipynb in DM2024-Lab2-Master)
-2.
-3.
-4.
+2. competition on website
+3. (file:Kaggle.ipynb in DM2024-Lab2-Homework)
+4. write notes to test the kernel and ensure file path
+
 
 problems in working with this lab
 (1) kenel using, how to know which library had been install under the environment working with
@@ -17,3 +18,5 @@ problems in working with this lab
         -> because my Macbook using M2, so I need to install tensorflow-macos
         After installing, using same command as the Master files performance, which "import tensorflow"
         Don't need to install keras cuz it can be find in tensorflow
+
+(3) sampling the dataset, changing shape of data, leading to fail the first submission 
